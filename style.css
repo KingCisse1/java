@@ -7,6 +7,14 @@ body {
     align-items: center;
 }
 
+header {
+    width: 100%;
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
 .carousel {
     width: 80%;
     overflow: hidden;
@@ -57,4 +65,12 @@ body {
     border: 1px solid #ccc;
     padding: 20px;
     text-align: center;
+}
+
+footer {
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
 }
